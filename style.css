@@ -1,5 +1,5 @@
 body {
-    background: linear linear-gradient(to bottom, #BCA3E6, #A3B8E6);
+    background: linear-gradient(to bottom, #BCA3E6, #A3B8E6);
 }
 h1 {
     text-align:center;
